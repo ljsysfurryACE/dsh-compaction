@@ -1,0 +1,7 @@
+- insert:
+    - id: compaction-agentframe
+      name: '@agentframe/dsh-compaction'
+      config:
+        semantic: true
+        retainRatio: 0.2
+        auto: true
